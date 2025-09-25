@@ -1,27 +1,27 @@
 {
   "mens_collection": [
-    { "name": "Shalwar Kameez", "price_range": "PKR 2,500 - 8,000" },
-    { "name": "Kurtas", "price_range": "PKR 1,800 - 5,500" },
-    { "name": "Waistcoats", "price_range": "PKR 1,200 - 4,000" },
-    { "name": "Formal Shirts", "price_range": "PKR 2,200 - 6,500" },
-    { "name": "Casual Shirts", "price_range": "PKR 1,500 - 3,800" }
+    { "name": "Shalwar Kameez", "price_range": "PKR 2500 - 8000" },
+    { "name": "Kurtas", "price_range": "PKR 1800 - 5500" },
+    { "name": "Waistcoats", "price_range": "PKR 1200 - 4000" },
+    { "name": "Formal Shirts", "price_range": "PKR 2200 - 6500" },
+    { "name": "Casual Shirts", "price_range": "PKR 1500 - 3800" }
   ],
   "womens_collection": [
-    { "name": "Lawn Suits", "price_range": "PKR 3,500 - 12,000" },
-    { "name": "Chiffon Suits", "price_range": "PKR 5,500 - 18,000" },
-    { "name": "Embroidered Suits", "price_range": "PKR 6,500 - 22,000" },
-    { "name": "Casual Wear", "price_range": "PKR 2,800 - 8,500" },
-    { "name": "Party Wear", "price_range": "PKR 12,000 - 45,000" }
+    { "name": "Lawn Suits", "price_range": "PKR 3500 - 12000" },
+    { "name": "Chiffon Suits", "price_range": "PKR 5500 - 18000" },
+    { "name": "Embroidered Suits", "price_range": "PKR 6500 - 22000" },
+    { "name": "Casual Wear", "price_range": "PKR 2,800 - 8500" },
+    { "name": "Party Wear", "price_range": "PKR 12,000 - 45000" }
   ],
   "kids_collection": [
-    { "name": "Boys Collection", "price_range": "PKR 1,200 - 3,500" },
-    { "name": "Girls Collection", "price_range": "PKR 1,500 - 4,200" },
-    { "name": "Family Sets", "price_range": "PKR 8,000 - 18,000" }
+    { "name": "Boys Collection", "price_range": "PKR 1200 - 3500" },
+    { "name": "Girls Collection", "price_range": "PKR 1500 - 4200" },
+    { "name": "Family Sets", "price_range": "PKR 8000 - 18000" }
   ],
   "bridal_collection": [
-    { "name": "Bridal Lehenga", "price_range": "PKR 45,000 - 150,000" },
-    { "name": "Bridal Sharara", "price_range": "PKR 35,000 - 120,000" },
-    { "name": "Groom Sherwani", "price_range": "PKR 18,000 - 65,000" }
+    { "name": "Bridal Lehenga", "price_range": "PKR 45000 - 150000" },
+    { "name": "Bridal Sharara", "price_range": "PKR 35000 - 120000" },
+    { "name": "Groom Sherwani", "price_range": "PKR 18000 - 65000" }
   ],
   "delivery_options": [
     { "method": "Store Pickup", "charge": "Free" },
