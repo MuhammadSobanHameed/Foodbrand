@@ -1,30 +1,30 @@
 {
   "mens_collection": [
-    { "name": "Shalwar Kameez", "price_range": "PKR 2500 - 8000" },
-    { "name": "Kurtas", "price_range": "PKR 1800 - 5500" },
-    { "name": "Waistcoats", "price_range": "PKR 1200 - 4000" },
-    { "name": "Formal Shirts", "price_range": "PKR 2200 - 6500" },
-    { "name": "Casual Shirts", "price_range": "PKR 1500 - 3800" }
+    { "name": "Shalwar Kameez", "price_range": "between two thousand five hundred and eight thousand rupees" },
+    { "name": "Kurtas", "price_range": "between one thousand eight hundred and five thousand five hundred rupees" },
+    { "name": "Waistcoats", "price_range": "between one thousand two hundred and four thousand rupees" },
+    { "name": "Formal Shirts", "price_range": "between two thousand two hundred and six thousand five hundred rupees" },
+    { "name": "Casual Shirts", "price_range": "between one thousand five hundred and three thousand eight hundred rupees" }
   ],
   "womens_collection": [
-    { "name": "Lawn Suits", "price_range": "PKR 3500 - 12000" },
-    { "name": "Chiffon Suits", "price_range": "PKR 5500 - 18000" },
-    { "name": "Embroidered Suits", "price_range": "PKR 6500 - 22000" },
-    { "name": "Casual Wear", "price_range": "PKR 2,800 - 8500" },
-    { "name": "Party Wear", "price_range": "PKR 12,000 - 45000" }
+    { "name": "Lawn Suits", "price_range": "between three thousand five hundred and twelve thousand rupees" },
+    { "name": "Chiffon Suits", "price_range": "between five thousand five hundred and eighteen thousand rupees" },
+    { "name": "Embroidered Suits", "price_range": "between six thousand five hundred and twenty-two thousand rupees" },
+    { "name": "Casual Wear", "price_range": "between two thousand eight hundred and eight thousand five hundred rupees" },
+    { "name": "Party Wear", "price_range": "between twelve thousand and forty-five thousand rupees" }
   ],
   "kids_collection": [
-    { "name": "Boys Collection", "price_range": "PKR 1200 - 3500" },
-    { "name": "Girls Collection", "price_range": "PKR 1500 - 4200" },
-    { "name": "Family Sets", "price_range": "PKR 8000 - 18000" }
+    { "name": "Boys Collection", "price_range": "between one thousand two hundred and three thousand five hundred rupees" },
+    { "name": "Girls Collection", "price_range": "between one thousand five hundred and four thousand two hundred rupees" },
+    { "name": "Family Sets", "price_range": "between eight thousand and eighteen thousand rupees" }
   ],
   "bridal_collection": [
-    { "name": "Bridal Lehenga", "price_range": "PKR 45000 - 150000" },
-    { "name": "Bridal Sharara", "price_range": "PKR 35000 - 120000" },
-    { "name": "Groom Sherwani", "price_range": "PKR 18000 - 65000" }
+    { "name": "Bridal Lehenga", "price_range": "between forty-five thousand and one hundred fifty thousand rupees" },
+    { "name": "Bridal Sharara", "price_range": "between thirty-five thousand and one hundred twenty thousand rupees" },
+    { "name": "Groom Sherwani", "price_range": "between eighteen thousand and sixty-five thousand rupees" }
   ],
   "delivery_options": [
     { "method": "Store Pickup", "charge": "Free" },
-    { "method": "Home Delivery", "charge": "PKR 200 - 500" }
+    { "method": "Home Delivery", "charge": "between two hundred and five hundred rupees" }
   ]
 }
