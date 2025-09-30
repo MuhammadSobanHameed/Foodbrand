@@ -1,0 +1,166 @@
+{
+  "cookie_dough": [
+    {
+      "name": "Milk Chocolate Cookie Dough",
+      "price": 5.79,
+      "description": "Cookie dough drizzled with milk chocolate sauce"
+    },
+    {
+      "name": "Double Chocolate Cookie Dough",
+      "price": 5.79,
+      "description": "Double chocolate cookie dough drizzled with milk chocolate sauce"
+    },
+    {
+      "name": "White Chocolate Cookie Dough",
+      "price": 5.79,
+      "description": "White chocolate cookie dough drizzled with white chocolate sauce"
+    },
+    {
+      "name": "Terrys Cookie Dough",
+      "price": 6.49,
+      "description": "Double chocolate cookie dough, topped with terry's orange chocolates, drizzled with milk & white sauce"
+    },
+    {
+      "name": "Nutella Cookie Dough",
+      "price": 6.49,
+      "description": "Cookie dough drizzled with hazelnut sauce & hazelnuts"
+    },
+    {
+      "name": "Oreo Cookie Dough",
+      "price": 6.49,
+      "description": "Cookie dough topped with Oreos, drizzled with milk & white chocolate sauce"
+    },
+    {
+      "name": "Marshmallow Cookie Dough",
+      "price": 6.49,
+      "description": "Cookie dough topped with toasted marshmallows, drizzled with milk chocolate sauce"
+    },
+    {
+      "name": "Strawberry Nutella Cookie Dough",
+      "price": 6.49,
+      "description": "Cookie dough topped with fresh strawberries & drizzled with hazelnut sauce"
+    },
+    {
+      "name": "Ferrero Cookie Dough",
+      "price": 6.89,
+      "description": "Cookie dough topped with Ferrero, kinder chocolates & roasted hazelnuts, topped with hazelnut & white hazelnut sauce"
+    },
+    {
+      "name": "Birthday Bliss",
+      "price": 6.49,
+      "description": "Milk chocolate cookie dough, drizzled with bubble-gum & candyfloss chocolate sauce, topped with rainbow sprinkles"
+    },
+    {
+      "name": "The Fredo",
+      "price": 6.49,
+      "description": "Milk chocolate cookie dough topped with a chocolate freddo & milk chocolate buttons drizzled with milk & white sauce"
+    }
+  ],
+  "sundaes": [
+    {
+      "name": "Strawberry Sundae",
+      "price": 6.99,
+      "description": "Strawberry & vanilla ice cream with layers of fresh strawberries and strawberry sauce, topped with cream and more fresh strawberries"
+    },
+    {
+      "name": "Chocoholic Sundae",
+      "price": 6.99,
+      "description": "Chocolate and vanilla ice cream with layers of chocolate sauce, chocolate sprinkles & chocolate buttons, topped with cream & more chocolate sprinkles"
+    },
+    {
+      "name": "Babelicious Sundae",
+      "price": 6.99,
+      "description": "Bubble-gum & vanilla ice cream with layers of bubble-gum sauce, bubble-gum millions, topped with cream & more bubble-gum millions"
+    },
+    {
+      "name": "Tuckshop Sundae",
+      "price": 6.99,
+      "description": "Vanilla & millions ice cream with bubble-gum & candy floss chocolate sauce layered with rainbow sprinkles & mini marshmallows, topped with cream and more sprinkles"
+    },
+    {
+      "name": "Black Cherry Sundae",
+      "price": 6.99,
+      "description": "Chocolate, raspberry ripple & vanilla ice cream layered with black cherry sauce and brownies, topped with cream and sauce"
+    },
+    {
+      "name": "Tutti Fruity Sundae",
+      "price": 6.99,
+      "description": "Vanilla, mango & strawberry ice cream layered with fresh strawberries, fresh berries & drizzled with strawberry and raspberry sauce, topped with cream and more fresh berries"
+    },
+    {
+      "name": "Fruit Sorbet Sundae",
+      "price": 6.99,
+      "description": "A mix of luxury fruit sorbets layered between fresh fruits and berries and drizzled with raspberry and strawberry sauce"
+    },
+    {
+      "name": "Biscoff Sundae",
+      "price": 6.99,
+      "description": "Vanilla & Biscoff ice cream layered with crushed Biscoff biscuits & Biscoff sauce, topped with cream & more Biscoff biscuits"
+    }
+  ],
+  "cakes": [
+    {
+      "name": "Chocolate Fudge Cake",
+      "price": 5.49
+    },
+    {
+      "name": "Ferrero Gatuax",
+      "price": 5.75
+    },
+    {
+      "name": "Matilda Cake",
+      "price": 7.95
+    },
+    {
+      "name": "Peanut Butterstack",
+      "price": 5.95
+    }
+  ],
+  "regular_shakes": [
+    {
+      "name": "Strawberry Shake",
+      "price": 4.49,
+      "description": "Blended with whippy vanilla ice cream, topped with cream and sauces"
+    },
+    {
+      "name": "Oreo Shake",
+      "price": 4.49,
+      "description": "Blended with whippy vanilla ice cream, topped with cream and sauces"
+    },
+    {
+      "name": "Kinder Shake",
+      "price": 4.49,
+      "description": "Blended with whippy vanilla ice cream, topped with cream and sauces"
+    },
+    {
+      "name": "Bubblegum Shake",
+      "price": 4.49,
+      "description": "Blended with whippy vanilla ice cream, topped with cream and sauces"
+    },
+    {
+      "name": "Ferrero Shake",
+      "price": 4.49,
+      "description": "Blended with whippy vanilla ice cream, topped with cream and sauces"
+    },
+    {
+      "name": "Snickers Shake",
+      "price": 4.49,
+      "description": "Blended with whippy vanilla ice cream, topped with cream and sauces"
+    },
+    {
+      "name": "Milkybar Shake",
+      "price": 4.49,
+      "description": "Blended with whippy vanilla ice cream, topped with cream and sauces"
+    },
+    {
+      "name": "Galaxy Shake",
+      "price": 4.49,
+      "description": "Blended with whippy vanilla ice cream, topped with cream and sauces"
+    },
+    {
+      "name": "Kitkat Shake",
+      "price": 4.49,
+      "description": "Blended with whippy vanilla ice cream, topped with cream and sauces"
+    }
+  ]
+}
